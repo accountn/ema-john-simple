@@ -19,7 +19,6 @@ import Shipment from './components/Shipment/Shipment';
 
 
 function App(props) {
-  const user = {name: 'koduMia', email:'kody@.com' }
   return (
     <div>
       <AuthContextProvider>
